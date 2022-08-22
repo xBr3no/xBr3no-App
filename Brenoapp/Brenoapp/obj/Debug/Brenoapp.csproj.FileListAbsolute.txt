@@ -1,0 +1,11 @@
+C:\Users\Breno\source\repos\Brenoapp\Brenoapp\bin\Debug\Brenoapp.exe.config
+C:\Users\Breno\source\repos\Brenoapp\Brenoapp\bin\Debug\Brenoapp.exe
+C:\Users\Breno\source\repos\Brenoapp\Brenoapp\bin\Debug\Brenoapp.pdb
+C:\Users\Breno\source\repos\Brenoapp\Brenoapp\obj\Debug\Brenoapp.csproj.AssemblyReference.cache
+C:\Users\Breno\source\repos\Brenoapp\Brenoapp\obj\Debug\Brenoapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Breno\source\repos\Brenoapp\Brenoapp\obj\Debug\Brenoapp.Form1.resources
+C:\Users\Breno\source\repos\Brenoapp\Brenoapp\obj\Debug\Brenoapp.Properties.Resources.resources
+C:\Users\Breno\source\repos\Brenoapp\Brenoapp\obj\Debug\Brenoapp.csproj.GenerateResource.cache
+C:\Users\Breno\source\repos\Brenoapp\Brenoapp\obj\Debug\Brenoapp.csproj.CoreCompileInputs.cache
+C:\Users\Breno\source\repos\Brenoapp\Brenoapp\obj\Debug\Brenoapp.exe
+C:\Users\Breno\source\repos\Brenoapp\Brenoapp\obj\Debug\Brenoapp.pdb
